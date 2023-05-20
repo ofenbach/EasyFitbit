@@ -14,7 +14,7 @@ To get started with this project, you need to first set up an application on the
     - Application Website and Organization: Optional, fill if applicable
     - OAuth 2.0 Application Type: Personal
     - Callback URL: `http://127.0.0.1:8080/` (or any other if you have a different one)
-5. Once the application is registered, you'll receive a `CLIENT_ID` and `CLIENT_SECRET`. Keep these safe as you'll need them for the next steps.
+5. Once the application is registered, you'll receive a `CLIENT_ID` (OAuth 2.0 Client ID) and `CLIENT_SECRET`. Keep these safe as you'll need them for the next steps.
 
 ### Installation
 
