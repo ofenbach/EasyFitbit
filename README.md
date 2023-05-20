@@ -40,6 +40,9 @@ fitbit = FitbitClient(CLIENT_ID, CLIENT_SECRET, REDIRECT_URI)
 ```python
 fitbit.authenticate()
 ```
+Allow the permissions you want to allow on the opened interface.  
+Copy paste the url after submitting the permissions.  
+Paste the URL into your terminal.  
 
 4. Now you can use the client to access Fitbit data:
 ```python
